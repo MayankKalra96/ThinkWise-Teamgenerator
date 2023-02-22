@@ -1,0 +1,27 @@
+{
+  "name": "tpg",
+  "version": "1.0.0",
+  "description": "ThinkWise TeamGenerator",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MayankKalra96/ThinkWise-Teamgenerator"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MayankKalra96/ThinkWise-Teamgenerator"
+  },
+  "homepage": "https://github.com/MayankKalra96/ThinkWise-Teamgenerator.git",
+  "dependencies": {
+    "inquirer": "^7.3.3",
+    "jest": "^24.9.0"
+  }
+}
