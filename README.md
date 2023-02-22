@@ -4,24 +4,24 @@ Built a software engineering team generator command line application. The applic
 
 # for example: If you select "intern" you will need to fill out
 
-name
-id
-email
-school
-If you select "manager" you will need to fill out
+name<br>
+id<br>
+email<br>
+school<br>
 
-name
-id
-email
-offce number
-If you select "engineer" you will need to fill out
+If you select "manager" you will need to fill out<br>
+name<br>
+id<br>
+email<br>
+offce number<br>
+<br>
+If you select "engineer" you will need to fill out<br>
+name<br>
+id<br>
+email<br>
+github<br>
+What is this application using?<br>
 
-name
-id
-email
-github
-What is this application using?
-NPM module jest NPM module inquirer javascript node.js google font font awesome
 
 ## Video link
 Google Drive : https://drive.google.com/file/d/16jY-vr_WCYcxDNle1pTNfrLjNKyPw_r1/view?usp=share_link##
